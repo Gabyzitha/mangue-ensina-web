@@ -21,7 +21,7 @@ O site funciona como a extensão digital do kit. Seu objetivo é apresentar o pr
 - Perceber a qualidade do trabalho (design, ilustração, execução)
 - Saber quem fez o projeto e em que contexto (trabalho acadêmico da UFS)
 
-### O que a equipe quer ganhar com o site
+### O que a equipe ganha com o site
 - Visibilidade e reconhecimento do projeto
 - Divulgação do conceito e do processo criativo
 - Construção de portfólio para a carreira de cada integrante
@@ -32,10 +32,9 @@ O site funciona como a extensão digital do kit. Seu objetivo é apresentar o pr
 - Destaque para o conceito ("por que o mangue") e para a qualidade de execução
 - Créditos visíveis à equipe
 - CTA de newsletter presente, mas discreto — sem competir com o conteúdo principal
-- Priorizar linguagem convidativa como "conheça", "veja", "explore"
 
 ### O que o site vai oferecer ao usuário
-- Apresentação do projeto (missão e conceito)
+- Apresentação do projeto
 - Exibição da coleção de peças gráficas criadas
 - Créditos da equipe envolvida
 - Newsletter para quem quiser acompanhar novidades
