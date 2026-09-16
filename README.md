@@ -13,7 +13,7 @@ O Mangue Ensina integra um kit corporativo ecológico que tem como foco salienta
 
 O site funciona como a extensão digital do kit. Seu objetivo é apresentar o projeto: contar o conceito por trás da escolha do mangue, exibir as peças gráficas produzidas e dar visibilidade ao trabalho da equipe.
 
-## 🧭 Estratégia do site
+##  Estratégia do site
 
 ### Expectativas de quem acessa o site
 - Entender rapidamente do que se trata o projeto
@@ -74,7 +74,7 @@ As ilustrações valorizam a preservação do manguezal, mostrando sua beleza e 
 
 O material ilustra espécies que habitam o manguezal sergipano, entre aves (colhereiro-rosado, guará-vermelho, papagaio-do-mangue, garça-branca-grande), animais marinhos (siri-azul, guaiamu, caranguejo-uçá, camarão-rosa) e mamíferos (capivara, sagui-de-tufos-brancos, jaguatirica, tamanduá-mirim) — todos com papel ecológico relevante na cadeia do ecossistema.
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - HTML
 - CSS
@@ -82,7 +82,7 @@ O material ilustra espécies que habitam o manguezal sergipano, entre aves (colh
 - React
 
 
-## 🧰 Softwares utilizados no branding
+##  Softwares utilizados no branding
 
 - Adobe Illustrator
 - Figma
